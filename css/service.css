@@ -1,0 +1,8 @@
+@media (max-width:500px) {
+    .about{
+        position: relative;
+        top: 100px;
+        transform: translateY(20%);
+        background-color: blue;
+    }
+}
